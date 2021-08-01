@@ -43,7 +43,6 @@ header h4{
   transition: 1s;
 }
 .title{
-  display:flex;
   position: absolute;
   top:40%;
   left:50%;
@@ -51,7 +50,6 @@ header h4{
 }
 .titleSpan{
   position: relative;
-  display:flex;
   bottom:-20px;
   opacity: 0;
   background-color:#535353;
